@@ -2,7 +2,7 @@
 A Data engineering project to curate a Speech-To-Text dataset.
 
 # Setup Instructions
-1.Clone this repository
+1.Clone this repository.
 2.You can use jupyter notebook or Google Colab to run the ipynb file.
 3.Install all the required packages present in ipynb file.
 4.Ensure that you have a stable internet connection.
@@ -13,7 +13,7 @@ A Data engineering project to curate a Speech-To-Text dataset.
 2.To run the AI4Bharat_audio.ipynb file you just trigger run.
 3.To run the AI4Bharat_transcript.ipynb file you need to provide the course url as input and pass the path to save the file.
 4.Also path to load the same file and perform pre-processing.
-4.Once the script is finished, you can view the processed transcript in .txt format.
+5.Once the script is finished, you can view the processed transcript in .txt format.
 
 
 # Observations
